@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VAHAK</string>
+
+    // Parse server details
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">t285wMLwzzT5VkXRqurkiFQi7eevybIVQSrKMYRf</string>
+    <string name="back4app_client_key">BygbZmXKvUuuTMTVtvxA9COj2H6ObBTkYfgc5k1m</string>
+
+    // Login
+    <string name="edtLoginEmail">Email</string>
+    <string name="edtLoginPassword">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="txtDontHaveAccount">Don\'t Have VAHAK Account</string>
+    <string name="txtSignUp">SIGNUP</string>
+    <string name="txtForgetPasswordText">Forget Password</string>
+    <string name="txtResetPassword">RESET</string>
+    <string name="TxtWelcmToTweet">Welcome To VAHAK</string>
+    <string name="txtError">oops! error occured \n TRY AGAIN</string>
+    <string name="txtSuccessfullySentEmail">Sent Email To Reset Password</string>
+
+    // SignUp
+    <string name="edtSignUpEmail">Email</string>
+    <string name="edtSignUpPassWord">Create Password</string>
+    <string name="edtSignUpUserName">Create UserName</string>
+    <string name="btnSignUp">SignUp</string>
+    <string name="txtAlreadyHaveAccount">Already Have VAHAK Account </string>
+    <string name="txtTransferToLoginActivity">LOGIN</string>
+    <string name="TxtSuccessMsg">Successfully Created VAHAK Account</string>
+    <string name="txtProgressDialog">Loading...</string>
+    <string name="txtSendChats">Chats</string>
+    <string name="btnSendMessage">SEND</string>
+    <string name="edtChatHereHint">Chat Here</string>
+
+</resources>
